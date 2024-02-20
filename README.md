@@ -1,4 +1,4 @@
-I'd be glad to help you craft a compelling GitHub README for your "Application-Tracking-System-Using-Google-Gemini-Pro-Vision-LIM-Model" project. Here's a comprehensive template incorporating feedback and best practices:
+
 
 **Project Title:**
 
